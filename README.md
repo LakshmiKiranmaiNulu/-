@@ -1,2 +1,0 @@
-# -
-Oasis Infobyte internship program
